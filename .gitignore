@@ -1,0 +1,8 @@
+#IDE added files and directories
+nbproject/
+test/
+.bowerrc
+bower.json
+Gruntfile.js
+gulpfile.js
+package.json
